@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iixin&#39;s blog</title>
+  
+  
+  <link href="https://iixin.icu/atom.xml" rel="self"/>
+  
+  <link href="https://iixin.icu/"/>
+  <updated>2023-03-14T03:37:03.208Z</updated>
+  <id>https://iixin.icu/</id>
+  
+  <author>
+    <name>iixin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>helloworld</title>
+    <link href="https://iixin.icu/0/"/>
+    <id>https://iixin.icu/0/</id>
+    <published>2023-03-14T03:35:48.000Z</published>
+    <updated>2023-03-14T03:37:03.208Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello world!&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span cl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
